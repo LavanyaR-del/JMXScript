@@ -1,0 +1,5 @@
+
+Test Scenarios which needs to be covered:
+
+1.Load test
+2.Endurance test
